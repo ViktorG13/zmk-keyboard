@@ -1,0 +1,13 @@
+file_format: "1"
+
+id: corne
+
+name: My Keyboard
+
+type: shield
+
+requires:
+  - nice_nano
+
+features:
+  - keys
