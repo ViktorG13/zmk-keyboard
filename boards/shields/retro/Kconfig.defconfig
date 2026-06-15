@@ -1,0 +1,4 @@
+if SHIELD_RETRO
+config ZMK_KEYBOARD_NAME
+    default "retro"
+endif
